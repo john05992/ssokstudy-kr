@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ssokstudy.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://ssokstudy.kr/sitemapx.xml
